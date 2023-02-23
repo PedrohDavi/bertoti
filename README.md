@@ -8,3 +8,5 @@
 
 
 A Engenharia de software em si diz respeito a um projeto de forma geral, não só a programação se faz essencial, mas todos os passos no desenvolvimento do projeto, desde seu funcionamento, tempo de execução até a experiência do usuário. Na Engenharia de software também é importante considerar os possíveis erros que podem ocorrer com a utilização do software, por isso é necessário analisar alternativas para uma manutenção mais eficiente.
+
+Na Engenharia de software os requisitos são parte essencial de qualquer projeto. Basicamente, os requisitos são para atender as necessidades do cliente e podem ser funcionais ou não funcionais. Requistos funcionais são ações que o software deve executar, que precisam estar de acordo com o pedido do cliente. Já os requisitos não funcionais tem mais a ver com desempenho e facilidades na experiência do usuário.
