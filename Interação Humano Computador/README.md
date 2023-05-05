@@ -1,8 +1,8 @@
 # Sites que possuem conflitos com alguma(s) das 10 heurísticas de Nielsen para design de interface
 
-## Vivo Next
+## Next
 
-O Vivo Next é um software criado para atender os mais variados tipos de clientes da empresa Vivo, nele é possível fazer novos planos, cancelá-los, consultar, enviar e contestar fatura(s) e entre outras funcionalidades.
+O Next é um software criado para atender os mais variados tipos de clientes, nele é possível fazer novos planos, cancelá-los, consultar, enviar e contestar fatura(s) e entre outras funcionalidades.
 No entanto, a criação de suas interfaces não prezou pela facilidade em sua utilização, o que causa problemas para o usuário, como será apresentado a seguir.
 
 ### Estética e design minimalista  
