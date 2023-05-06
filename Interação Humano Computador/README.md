@@ -7,7 +7,7 @@ No entanto, a criação de suas interfaces não prezou pela facilidade em sua ut
 
 ### Estética e design minimalista  
 **imagem**  
-Essa é a tela inicial do sistema, é possível notar que existem muitas opções na tela, o que dificulta um usuário leigo a realizar alguma tarefa.  
+Essa é a tela inicial do sistema, é possível notar que existem muitas opções na tela, o que dificulta um usuário leigo a realizar alguma tarefa.
 Opções mais simples ou mais intuitivas ajudariam nesse caso, depois, conforme o usuário avança na solicitação o sistema poderia filtrar a requisição.  
 
 ### Eficiência e flexibilidade de uso  
@@ -16,7 +16,8 @@ A interface acima mostra um solicitação de aquisição ou migração de plano 
 nesta etapa não é possível usar o atalho Ctrl V, além disso, o botão "Voltar" não é tão nítido como deveria ser, o que torna mais complicado a utilização de um novo usuário.
 
 ### Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros  
-**imagem**  
+![Heurística 3](https://user-images.githubusercontent.com/111358479/236629680-d3dc7625-b13a-49f6-9e48-9434c4e2de33.png)
+  
 A imagem acima mostra uma ordem de serviço que não foi finalizada, da maneira que está apresentado, o usuário não consegue mexer nela de nenhuma forma devido a um erro.
 Nesses casos é necessário aguardar o sistema desfazer a ordem automaticamente para dar continuidade, o que demora de 2 a 6 horas. Um simples botão de alterar resolveria esse transtorno.  
 
