@@ -6,7 +6,8 @@ O Next é um software criado para atender os mais variados tipos de clientes, ne
 No entanto, a criação de suas interfaces não prezou pela facilidade em sua utilização, o que causa problemas para o usuário, como será apresentado a seguir.
 
 ### Estética e design minimalista  
-**imagem**  
+![Heurística 1](https://user-images.githubusercontent.com/111358479/236704966-114ee160-fccd-4308-bb3b-2dbf5518134b.png)
+  
 Essa é a tela inicial do sistema, é possível notar que existem muitas opções na tela, o que dificulta um usuário leigo a realizar alguma tarefa.
 Opções mais simples ou mais intuitivas ajudariam nesse caso, depois, conforme o usuário avança na solicitação o sistema poderia filtrar a requisição.  
 
@@ -28,4 +29,10 @@ porém para uma pessoa que nunca utilizou o software é impossível saber como e
 **imagem**  
 E aí, você saberia a opção sem uma indicação?
 
-##
+## Único
+O sistema Único é um software privado que tem a mesma finalidade do Next (software apresentado anteriormente) e possui também incompatibilidades com as Heurísticas de Nielsen.
+
+### Controle e liberdade para o usuário
+É importante que o usuário consiga voltar em alguma etapa usando qualquer tipo de software, isso dará mais confiabilidade ao executar qualquer tipo de ação. A imagem a seguir, mostra uma solicitação de migração de plano, caso o usuário digite alguma informação equivocada, o mesmo é forçado a finalizar o atendimento, pois o sistema não oferece a opção de voltar.  
+![Heurística 5](https://user-images.githubusercontent.com/111358479/236706167-ebc87cbf-53a4-4495-b47d-294e78d1bb27.png)
+
