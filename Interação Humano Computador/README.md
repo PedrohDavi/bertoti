@@ -12,7 +12,8 @@ Essa é a tela inicial do sistema, é possível notar que existem muitas opçõe
 Opções mais simples ou mais intuitivas ajudariam nesse caso, depois, conforme o usuário avança na solicitação o sistema poderia filtrar a requisição.  
 
 ### Eficiência e flexibilidade de uso  
-**imagem**  
+![Heurística 2](https://github.com/PedrohDavi/bertoti/assets/111358479/7012df7d-053e-4b60-8ce4-ce90f756c6b1)
+  
 A interface acima mostra um solicitação de aquisição ou migração de plano de um cliente, nessa tela é apresentado apenas uma única opção para voltar pra tela anterior,
 nesta etapa não é possível usar o atalho Ctrl V, além disso, o botão "Voltar" não é tão nítido como deveria ser, o que torna mais complicado a utilização de um novo usuário.
 
@@ -23,10 +24,12 @@ A imagem acima mostra uma ordem de serviço que não foi finalizada, da maneira 
 Nesses casos é necessário aguardar o sistema desfazer a ordem automaticamente para dar continuidade, o que demora de 2 a 6 horas. Um simples botão de alterar resolveria esse transtorno.  
 
 ### Compatibilidade entre o sistema e o mundo real  
-**imagem**  
+![Heurística 4 1](https://github.com/PedrohDavi/bertoti/assets/111358479/0ac929d0-53f7-43cf-be0e-7718a63145ca)
+ 
 Acima é apresentado também uma interface de aquisição de plano móvel, na parte debaixo está descrita a opção de incluir débito em conta corrente, 
 porém para uma pessoa que nunca utilizou o software é impossível saber como escolher banco que o cliente utiliza. A imagem a seguir indica a opção para escolher o banco:  
-**imagem**  
+![Heurística 4 2](https://github.com/PedrohDavi/bertoti/assets/111358479/49bff905-1618-40a8-88cb-e83b284b3464)
+ 
 E aí, você saberia a opção sem uma indicação?
 
 ## Único
