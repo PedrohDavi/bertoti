@@ -15,7 +15,10 @@ Opções mais simples ou mais intuitivas ajudariam nesse caso, depois, conforme 
 ![Heurística 2](https://github.com/PedrohDavi/bertoti/assets/111358479/7012df7d-053e-4b60-8ce4-ce90f756c6b1)
   
 A interface acima mostra um solicitação de aquisição ou migração de plano de um cliente, nessa tela é apresentado apenas uma única opção para voltar pra tela anterior,
-nesta etapa não é possível usar o atalho Ctrl V, além disso, o botão "Voltar" não é tão nítido como deveria ser, o que torna mais complicado a utilização de um novo usuário.
+nesta etapa não é possível usar o atalho Ctrl V, além disso, o botão "Voltar" não é tão nítido como deveria ser, o que torna mais complicado a utilização de um novo usuário.  
+A imagem a seguir mostra outro exemplo do sistema que não possui flexibilidade de uso, na solicitação de envio de fatura só é possível enviar uma por vez, não existe uma maneira de enviar todas juntas.  
+![Heurística 2 2](https://github.com/PedrohDavi/bertoti/assets/111358479/c00c6164-67ce-4a64-8305-cda0933296a2)
+
 
 ### Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros  
 ![Heurística 3](https://user-images.githubusercontent.com/111358479/236629680-d3dc7625-b13a-49f6-9e48-9434c4e2de33.png)
@@ -30,7 +33,10 @@ Acima é apresentado também uma interface de aquisição de plano móvel, na pa
 porém para uma pessoa que nunca utilizou o software é impossível saber como escolher banco que o cliente utiliza. A imagem a seguir indica a opção para escolher o banco:  
 ![Heurística 4 2](https://github.com/PedrohDavi/bertoti/assets/111358479/49bff905-1618-40a8-88cb-e83b284b3464)
  
-E aí, você saberia a opção sem uma indicação?
+E aí, você saberia a opção sem uma indicação?  
+
+### Ajuda e documentação
+Uma parte muito importante no desenvolvimento de um sistema é apresentar ajuda para o usuário saber como executar algum tipo de ação, no sistema Next há a opção de ajuda, porém esta só mostra dados técnico do software como nome, versão, etc.
 
 ## Único
 O sistema Único é um software privado que tem a mesma finalidade do Next (software apresentado anteriormente) e possui também incompatibilidades com as Heurísticas de Nielsen.
