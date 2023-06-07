@@ -17,5 +17,6 @@ Na Engenharia de software os requisitos são parte essencial de qualquer projeto
 
 É indispensável em um projeto, no ponto de vista de um engenheiro de software, analisar o esforço que cada tecnologia irá gerar, por vezes, a linguagem de programação mais rápida para o código não será implementada, ao invés disso pode ser substituída por outra com velocidade similar, porém com mais facilidade na utilização e manutenção, assim acontece o trade-off. A escolha do método ágil a se utilizar pela equipe de desenvolvimento também é parte essencial no projeto, exemplifica bem como o trade-off ocorre.
 
-![MicrosoftTeams-image](https://github.com/PedrohDavi/bertoti/assets/111358479/2d22821a-5348-4077-8ac9-b073a6ff9314)
+![Exemplo UML](https://github.com/PedrohDavi/bertoti/assets/111358479/6c9d8dc2-5cc4-4f67-98aa-105c280c1e3c)
+
 
