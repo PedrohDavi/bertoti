@@ -1,0 +1,6 @@
+Primeira mensagem de log.
+Segunda mensagem de log.
+Primeira mensagem de log.
+Segunda mensagem de log.
+Primeira mensagem de log.
+Segunda mensagem de log.
